@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="title desc">
+  <title id="title">Baijian Zhu — Applied AI, Computer Vision and Robotics</title>
+  <desc id="desc">A deep navy profile header with teal geometric voxel and graph artwork.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0C1424"/>
+      <stop offset="1" stop-color="#14243A"/>
+    </linearGradient>
+    <linearGradient id="top" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#43D9BB" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#82A8FF" stop-opacity=".08"/>
+    </linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="999" height="249" rx="20" fill="url(#background)" stroke="#26364D"/>
+  <path d="M44 47H92" stroke="#5AE0C0" stroke-width="4" stroke-linecap="round"/>
+  <text x="44" y="120" fill="#F1F6FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="650" letter-spacing="-2">Baijian Zhu</text>
+  <text x="47" y="165" fill="#B6C8DF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400">Applied AI · Computer Vision · Robotics</text>
+  <path d="M47 202H257" stroke="#32445E" stroke-width="1"/>
+  <path d="M47 202H93" stroke="#5AE0C0" stroke-width="1"/>
+  <g fill="#7892B4" opacity=".28">
+    <circle cx="662" cy="48" r="1.5"/><circle cx="688" cy="48" r="1.5"/><circle cx="714" cy="48" r="1.5"/>
+    <circle cx="662" cy="74" r="1.5"/><circle cx="688" cy="74" r="1.5"/><circle cx="714" cy="74" r="1.5"/>
+    <circle cx="662" cy="100" r="1.5"/><circle cx="688" cy="100" r="1.5"/><circle cx="714" cy="100" r="1.5"/>
+    <circle cx="930" cy="178" r="1.5"/><circle cx="956" cy="178" r="1.5"/><circle cx="930" cy="204" r="1.5"/><circle cx="956" cy="204" r="1.5"/>
+  </g>
+  <g fill="none" stroke="#5D80AE" stroke-width="1.3" opacity=".48">
+    <path d="M685 181L744 148M909 91L949 68M827 224L864 213L933 213"/>
+    <circle cx="685" cy="181" r="5"/><circle cx="949" cy="68" r="5"/><circle cx="933" cy="213" r="5"/>
+  </g>
+  <g stroke-linejoin="round">
+    <path d="M827 40L909 88L827 136L745 88Z" fill="url(#top)" stroke="#79A9C4" stroke-width="1.4"/>
+    <path d="M745 88L827 136V224L745 176Z" fill="#203951" fill-opacity=".5" stroke="#517897" stroke-width="1.4"/>
+    <path d="M827 136L909 88V176L827 224Z" fill="#24605F" fill-opacity=".17" stroke="#5E9A9D" stroke-width="1.4"/>
+    <g fill="none" stroke="#6EA5B4" stroke-width="1" opacity=".45">
+      <path d="M772.33 72L854.33 120M799.67 56L881.67 104M772.33 104L854.33 56M799.67 120L881.67 72"/>
+      <path d="M772.33 104V192M799.67 120V208M745 117.33L827 165.33M745 146.67L827 194.67"/>
+      <path d="M854.33 120V208M881.67 104V192M827 165.33L909 117.33M827 194.67L909 146.67"/>
+    </g>
+    <path d="M827 104L854.33 120L827 136L799.67 120Z" fill="#5AE0C0" fill-opacity=".78" stroke="#95F4DD" stroke-width="1.3"/>
+    <path d="M799.67 120L827 136V165.33L799.67 149.33Z" fill="#43BDAA" fill-opacity=".42" stroke="#79DAC7" stroke-width="1.2"/>
+    <path d="M827 136L854.33 120V149.33L827 165.33Z" fill="#258E86" fill-opacity=".55" stroke="#79DAC7" stroke-width="1.2"/>
+  </g>
+  <g fill="#92EAD8">
+    <circle cx="827" cy="40" r="3"/><circle cx="909" cy="88" r="3"/><circle cx="745" cy="88" r="3"/><circle cx="827" cy="224" r="3"/>
+  </g>
+</svg>
